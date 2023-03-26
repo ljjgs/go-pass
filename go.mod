@@ -1,4 +1,4 @@
-module common
+module github.com/ljjgs/go-pass
 
 go 1.18
 
